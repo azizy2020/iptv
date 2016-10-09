@@ -46,7 +46,7 @@ Oo0o0000o0o0 = oo00 . getSetting ( 'AdultPass' )
 oOo0oooo00o = xbmc . translatePath ( 'special://home/' )
 oO0o0o0ooO0oO = xbmc . translatePath ( os . path . join ( 'special://home/addons/' + oooO0oo0oOOOO , 'icon.png' ) )
 oo0o0O00 = ( i1111 ( 'aHR0cDovL2FyY2hpdGVjdHMueDEwaG9zdC5jb20vR2VuaWVBcnQv' ) )
-oO = "0.0.4"
+oO = "0.0.5"
 i1iiIIiiI111 = xbmc . translatePath ( 'special://home/userdata/addon_data/plugin.video.Xhoans' )
 oooOOOOO = xbmc . translatePath ( os . path . join ( 'special://home/addons/plugin.video.Xhoans/imports/tvGuide/ResetDatabase.py' ) )
 i1iiIII111ii = xbmc . translatePath ( 'special://thumbnails' ) ;
@@ -113,6 +113,7 @@ def iIii11I ( ) :
  o0 ( 'Music' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
  o0 ( 'UK Sports' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
  o0 ( 'International Sports' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
+ o0 ( 'US Sports Live Event/Ticket/Pass' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
  o0 ( 'News UK & International' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
  o0 ( 'German' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
  o0 ( 'Arabic' , '' , 14 , oo0o0O00 + 'STREAMLISTS.png' , iI111I11I1I1 , '' )
