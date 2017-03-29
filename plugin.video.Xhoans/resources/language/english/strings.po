@@ -1,5 +1,5 @@
 # XBMC Media Center language file
-# Addon Name: Xhoans Guide
+# Addon Name: Xhoans IPTV Guide
 # Addon id: plugin.video.Xhoans
 # Addon Provider: rayw1986, bluezed
 msgid ""
@@ -163,11 +163,11 @@ msgid "URL"
 msgstr ""
 
 msgctxt "#30126"
-msgid "Xhoans (All)"
+msgid "ULTIMATE (All)"
 msgstr ""
 
 msgctxt "#30127"
-msgid "Xhoans (Basic)"
+msgid "ULTIMATE (Basic)"
 msgstr ""
 
 msgctxt "#30128"
@@ -231,7 +231,7 @@ msgid "Custom File"
 msgstr ""
 
 msgctxt "#30143"
-msgid "Xhoans Guide"
+msgid "ULTIMATE Guide"
 msgstr ""
 
 msgctxt "#30144"
@@ -279,7 +279,7 @@ msgid "It looks like your current skin has a special"
 msgstr ""
 
 msgctxt "#30155"
-msgid "version of the Xhoans Guide skin that is not up-to-date."
+msgid "version of the ULTIMATE Guide skin that is not up-to-date."
 msgstr ""
 
 msgctxt "#30156"
@@ -287,7 +287,7 @@ msgid "Please try with a different skin..."
 msgstr ""
 
 msgctxt "#30157"
-msgid "It looks like the Xhoans Guide database is broken."
+msgid "It looks like the ULTIMATE Guide database is broken."
 msgstr ""
 
 msgctxt "#30158"
@@ -458,7 +458,7 @@ msgid "Play channels using the Weeb.Tv addon"
 msgstr ""
 
 msgctxt "#30802"
-msgid "Xhoans Guide is configured to stream using Weeb.Tv"
+msgid "ULTIMATE Guide is configured to stream using Weeb.Tv"
 msgstr ""
 
 msgctxt "#30803"
@@ -470,7 +470,7 @@ msgid "Streaming using that addon is now disabled."
 msgstr ""
 
 msgctxt "#30900"
-msgid "Autostart Xhoans Guide when Kodi starts up"
+msgid "Autostart ULTIMATE Guide when Kodi starts up"
 msgstr ""
 
 msgctxt "#31000"

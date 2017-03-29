@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.Xhoans" name="Xhoans IPTV" version="0.0.5" provider-name="Origin/GenieTv">
+<addon id="plugin.video.Xhoans" name="Xhoans IPTV" version="0.0.6" provider-name="Origin/GenieTv">
   <requires>
   	<import addon="script.module.beautifulsoup" version="3.2.1"/>
 	<import addon="script.module.beautifulsoup4" />
@@ -17,7 +17,7 @@
   </extension>
   <extension point="xbmc.service" library="service.py" start="login" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Xhoans IPTV. Brought to you by Origin/GenieTv</summary>
+    <summary lang="en">Xhoans IPTV.</summary>
     <description lang="en">A Plugin for Xhoans amazing iptv service</description>
 	<disclaimer lang="en">The author neither hosts or stores any content, the author has no affiliation with content hosts</disclaimer>
     <platform>all</platform>
