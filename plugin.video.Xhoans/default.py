@@ -29,7 +29,7 @@ if 64 - 64: i11iIiiIii
 if 65 - 65: O0 / iIii1I11I1II1 % OoooooooOO - i1IIi
 o0OO00 = 'plugin.video.Xhoans'
 oo = 'plugin.video.Xhoans'
-i1iII1IiiIiI1 = "0.0.9"
+i1iII1IiiIiI1 = "1.0.0"
 iIiiiI1IiI1I1 = xbmc . translatePath ( 'special://home/addons/' )
 o0OoOoOO00 = base64 . decodestring
 I11i = datetime . now ( )
@@ -211,7 +211,7 @@ def iiIiI ( url ) :
   IiI111111IIII = base64 . b64decode ( IiI111111IIII )
   i1Ii = '('
   ii111iI1iIi1 = ')'
-  addDir2 ( ( '[COLORsteelblue]' + i1I1iI + '[/COLOR]' ) . replace ( 'min' , 'min[COLORsteelblue]' ) . replace ( '+' , '[COLORorangered]+' ) , OOoO00 , 15 , i1Iii1i1I , OOO , ( '[COLORsteelblue]' + IiI111111IIII + '[/COLOR]' ) . replace ( '<' , '' ) . replace ( ii111iI1iIi1 , '[COLORsteelblue]' ) . replace ( i1Ii , '[COLORorangered]' ) )
+  o0O ( ( '[COLORsteelblue]' + i1I1iI + '[/COLOR]' ) . replace ( 'min' , 'min[COLORsteelblue]' ) . replace ( '+' , '[COLORorangered]+' ) , OOoO00 , 15 , i1Iii1i1I , OOO , ( '[COLORsteelblue]' + IiI111111IIII + '[/COLOR]' ) . replace ( '<' , '' ) . replace ( ii111iI1iIi1 , '[COLORsteelblue]' ) . replace ( i1Ii , '[COLORorangered]' ) )
   if 68 - 68: oOOO0OOooOoO0Oo + ii1I11II1ii1i
 def I1I1I ( url ) :
  url = url
