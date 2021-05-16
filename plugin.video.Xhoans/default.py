@@ -384,7 +384,7 @@ def iI1i111I1Ii ( ) :
  i11i1ii1I = re . search ( '(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)' , open )
  return str ( i11i1ii1I . group ( ) )
 def o0OO0o0o00o ( ) :
- iiI111I1iIiI = "http://piesustv.net:8000/get.php?username=" + o0oO0 + "&password=" + o00 + "&type=m3u_plus&output=ts"
+ iiI111I1iIiI = "http://tv2ip.nl:8080/get.php?username=" + o0oO0 + "&password=" + o00 + "&type=m3u_plus&output=ts"
  try :
   IIIi1I1IIii1II = urllib2 . urlopen ( iiI111I1iIiI )
   print IIIi1I1IIii1II . getcode ( )
